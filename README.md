@@ -1,6 +1,6 @@
 # simple-loops
 
-C Loops, if, if-else Exercises Do 6 of these exercises.
+### C Loops, if, if-else Exercises Do 6 of these exercises.
 
 C1 Program tells what is the biggest of 3 given whole numbers.
 
@@ -26,4 +26,4 @@ C9 Your program calculates the amount of k-combinations from a set with n elemen
 
 C10 Create a program that calculates the standard deviation.
 
-Programs developed in order to solve selected tasks of this exercise shall belong to the one VS/VS-Express solution having name exe202_lastName_firstName. The name of individual project for a selected task shall have name taskC1, taskC2, …, or taskC10. 
+###### Programs developed in order to solve selected tasks of this exercise shall belong to the one VS/VS-Express solution having name exe202_lastName_firstName. The name of individual project for a selected task shall have name taskC1, taskC2, …, or taskC10. 
