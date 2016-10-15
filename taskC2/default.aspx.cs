@@ -15,7 +15,15 @@ namespace taskC2
         }
         protected void btn2Clicked(object sender, EventArgs e)
         {
-
+            float checkedNum = float.Parse(givenNum.Text);
+            if ( checkedNum >= 0 && checkedNum <=10 )
+            {
+                result.Text = ("YES! The number " + checkedNum + " is the value between 0 and 10");
+            }
+            else
+            {
+                result.Text = ("NO! The number " + checkedNum + " is NOT the value between 0 and 10");
+            }
         }
     }
 }

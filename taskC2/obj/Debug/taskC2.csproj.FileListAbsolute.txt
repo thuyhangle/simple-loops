@@ -30,3 +30,4 @@
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.2\exe202_Le_ThuyHang\taskC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.2\exe202_Le_ThuyHang\taskC2\obj\Debug\taskC2.dll
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.2\exe202_Le_ThuyHang\taskC2\obj\Debug\taskC2.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.2\exe202_Le_ThuyHang\taskC2\obj\Debug\taskC2.csprojResolveAssemblyReference.cache

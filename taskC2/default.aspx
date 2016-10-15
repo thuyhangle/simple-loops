@@ -14,14 +14,14 @@
             <br />
             <div class="form-group">
                 <label for="givenNum">Number:</label>
-                <asp:TextBox ID="givenNum" CssClass="form-control" runat="server"></asp:TextBox>
+                <asp:TextBox ID="givenNum" CssClass="form-control" runat="server" type="number"></asp:TextBox>
             </div>
             <br />
             <div class="form-group">
                 <asp:Button runat ="server" Text="Check number" OnClick="btn2Clicked"/>
                 <br />
                 <label for="result">Checking Result:</label>
-                <asp:TextBox ID="result" CssClass="form-control" runat="server"></asp:TextBox>
+                <asp:TextBox ID="result" CssClass="form-control" runat="server" Width="500px"></asp:TextBox>
             </div>
     </div>
     </form>
