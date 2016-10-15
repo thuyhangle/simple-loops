@@ -27,11 +27,11 @@
             </div>
             <br />
             <asp:Button runat ="server" Text="Find the biggest number" OnClick="btn1Clicked"/>
+            <br />
             <div class="form-group">
                 <label for="bigNum">Biggest Number:</label>
                 <asp:TextBox ID="bigNum" CssClass="form-control" runat="server"></asp:TextBox>
             </div>
-            <br />
         </div>
     </form>
 </body>

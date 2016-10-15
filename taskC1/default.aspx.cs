@@ -20,7 +20,16 @@ namespace taskC1
             float float3 = float.Parse(num3.Text);
 
             float[] numbers = { float1, float2, float3 };
-            float biggestFloat = numbers.Max();
+            //float biggestFloat = numbers.Max();
+            float biggestFloat = numbers[2];
+            for(int i = 0; i < 3; i++)
+            {
+                if ( numbers[i] > biggestFloat )
+                {
+                    biggestFloat = numbers[i];
+                }
+            }
+            //
             bigNum.Text = biggestFloat.ToString();
         }
     }
