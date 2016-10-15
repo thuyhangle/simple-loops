@@ -22,11 +22,16 @@
             </div>
             <br />
             <div class="form-group">
-                <label for="num2">Number2:</label>
-                <asp:TextBox ID="TextBox1" CssClass="form-control" runat="server"></asp:TextBox>
+                <label for="num3">Number3:</label>
+                <asp:TextBox ID="num3" CssClass="form-control" runat="server"></asp:TextBox>
             </div>
             <br />
             <asp:Button runat ="server" Text="Find the biggest number" OnClick="btn1Clicked"/>
+            <div class="form-group">
+                <label for="bigNum">Biggest Number:</label>
+                <asp:TextBox ID="bigNum" CssClass="form-control" runat="server"></asp:TextBox>
+            </div>
+            <br />
         </div>
     </form>
 </body>

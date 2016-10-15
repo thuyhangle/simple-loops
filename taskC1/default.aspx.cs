@@ -15,7 +15,13 @@ namespace taskC1
         }
         protected void btn1Clicked(object sender, EventArgs e)
         {
+            float float1 = float.Parse(num1.Text);
+            float float2 = float.Parse(num2.Text);
+            float float3 = float.Parse(num3.Text);
 
+            float[] numbers = { float1, float2, float3 };
+            float biggestFloat = numbers.Max();
+            bigNum.Text = biggestFloat.ToString();
         }
     }
 }

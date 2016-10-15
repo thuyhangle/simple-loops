@@ -40,12 +40,21 @@ namespace taskC1 {
         protected global::System.Web.UI.WebControls.TextBox num2;
         
         /// <summary>
-        /// TextBox1 control.
+        /// num3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox num3;
+        
+        /// <summary>
+        /// bigNum control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox bigNum;
     }
 }
